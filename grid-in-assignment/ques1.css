@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    grid-template-columns: 800px 300px 200px;
+    /* grid-template-rows: 400px 300px 100px ; */
+
+    height: 100vh;
+}
+img{
+    height: 98vh;
+    width: 300px;
+}
+.item3{
+    background-color: yellow;
+}
+.item1{
+   justify-self: center;
+   align-self: center;
+   margin-left: 50px;
+   margin-right: 50px;
+
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    height: 25px;
+    width: 100px;
+    margin-top: 10px;
+}
