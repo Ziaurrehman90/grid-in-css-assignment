@@ -1,6 +1,8 @@
 # grid-in-css-assignment
 This is the assignment solution of GRID Property of CSS given by PW SKILLS
+
 output images : 
+
 ques 1 : 
 ![Screenshot (49)](https://github.com/Ziaurrehman90/grid-in-css-assignment/assets/112377951/62fb569c-f671-4436-bcae-803387b6d537)
 ques 2:
